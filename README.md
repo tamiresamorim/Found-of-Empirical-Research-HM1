@@ -1,5 +1,4 @@
-# Found-of-Empirical-Research-HM1
-HM 1
+# Found-of-Empirical-Research
 ================
 by Tamires Amorim
 2/5/2021
